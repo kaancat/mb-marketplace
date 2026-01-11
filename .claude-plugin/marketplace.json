@@ -11,7 +11,7 @@
       "name": "mb-keyword-analysis",
       "source": {
         "source": "url",
-        "url": "https://github.com/kaancat/google-ads-ai-assistant.git"
+        "url": "https://github.com/kaancat/mb-keyword-analysis.git"
       },
       "description": "Google Ads keyword analysis workflow with enforced phase gates - from website understanding to final deliverable",
       "version": "1.0.1"
