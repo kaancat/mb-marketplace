@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mb-plugins",
+  "description": "mondaybrew Claude Code plugins for Google Ads workflow automation",
+  "owner": {
+    "name": "mondaybrew",
+    "email": "hello@mondaybrew.dk"
+  },
+  "plugins": [
+    {
+      "name": "mb-keyword-analysis",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kaancat/google-ads-ai-assistant.git"
+      },
+      "description": "Google Ads keyword analysis workflow with enforced phase gates - from website understanding to final deliverable",
+      "version": "1.0.1"
+    }
+  ]
+}
