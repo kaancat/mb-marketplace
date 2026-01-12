@@ -23,7 +23,7 @@
         "url": "https://github.com/kaancat/mb-google-ads-audit.git"
       },
       "description": "Comprehensive Google Ads account audit - diagnostic analysis, severity scoring, and prioritized action plans",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }
