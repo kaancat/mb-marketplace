@@ -14,7 +14,7 @@
         "url": "https://github.com/kaancat/mb-keyword-analysis.git"
       },
       "description": "Complete Google Ads keyword analysis system - MCP server, API connectors, knowledge base, schemas, and workflow automation",
-      "version": "1.4.0"
+      "version": "1.4.1"
     },
     {
       "name": "mb-google-ads-audit",
@@ -23,7 +23,7 @@
         "url": "https://github.com/kaancat/mb-google-ads-audit.git"
       },
       "description": "Comprehensive Google Ads account audit - diagnostic analysis, severity scoring, and prioritized action plans",
-      "version": "1.0.1"
+      "version": "1.0.2"
     }
   ]
 }
